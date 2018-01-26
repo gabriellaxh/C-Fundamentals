@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\obj\Debug\4. Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

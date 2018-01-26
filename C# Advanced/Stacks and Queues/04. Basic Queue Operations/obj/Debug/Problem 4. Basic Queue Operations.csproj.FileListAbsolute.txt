@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\obj\Debug\Problem 4. Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\obj\Debug\Problem 4. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.pdb

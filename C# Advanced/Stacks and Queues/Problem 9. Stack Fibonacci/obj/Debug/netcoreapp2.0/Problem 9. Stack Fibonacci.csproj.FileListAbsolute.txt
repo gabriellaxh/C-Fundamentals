@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\bin\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 9. Stack Fibonacci\obj\Debug\netcoreapp2.0\Problem 9. Stack Fibonacci.pdb

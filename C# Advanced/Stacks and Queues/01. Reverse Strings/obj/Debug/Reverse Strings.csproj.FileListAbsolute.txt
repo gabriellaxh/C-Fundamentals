@@ -1,0 +1,7 @@
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\bin\Debug\Reverse Strings.exe.config
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\bin\Debug\Reverse Strings.exe
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\bin\Debug\Reverse Strings.pdb
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\obj\Debug\Reverse Strings.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\obj\Debug\Reverse Strings.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\obj\Debug\Reverse Strings.exe
+c:\users\gabriela\source\repos\StacksAndQueues\Reverse Strings\obj\Debug\Reverse Strings.pdb

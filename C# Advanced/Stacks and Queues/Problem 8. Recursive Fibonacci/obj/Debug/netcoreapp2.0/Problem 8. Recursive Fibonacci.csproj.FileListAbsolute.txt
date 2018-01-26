@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\bin\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 8. Recursive Fibonacci\obj\Debug\netcoreapp2.0\Problem 8. Recursive Fibonacci.pdb

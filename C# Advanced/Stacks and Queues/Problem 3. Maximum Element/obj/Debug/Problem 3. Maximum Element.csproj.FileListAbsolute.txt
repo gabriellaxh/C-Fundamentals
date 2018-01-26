@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\bin\Debug\Problem_3.Maximum_Element.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\bin\Debug\Problem_3.Maximum_Element.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\bin\Debug\Problem_3.Maximum_Element.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\obj\Debug\Problem 3. Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\obj\Debug\Problem 3. Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\obj\Debug\Problem_3.Maximum_Element.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 3. Maximum Element\obj\Debug\Problem_3.Maximum_Element.pdb

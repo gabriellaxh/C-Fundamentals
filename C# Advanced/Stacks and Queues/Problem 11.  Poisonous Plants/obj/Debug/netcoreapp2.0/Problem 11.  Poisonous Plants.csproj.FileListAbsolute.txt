@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\bin\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 11.  Poisonous Plants\obj\Debug\netcoreapp2.0\Problem 11.  Poisonous Plants.pdb

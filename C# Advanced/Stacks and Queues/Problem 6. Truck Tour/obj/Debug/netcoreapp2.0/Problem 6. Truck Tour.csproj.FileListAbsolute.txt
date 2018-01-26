@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\bin\Debug\netcoreapp2.0\Problem 6. Truck Tour.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\bin\Debug\netcoreapp2.0\Problem 6. Truck Tour.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\bin\Debug\netcoreapp2.0\Problem 6. Truck Tour.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\bin\Debug\netcoreapp2.0\Problem 6. Truck Tour.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\bin\Debug\netcoreapp2.0\Problem 6. Truck Tour.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 6. Truck Tour\obj\Debug\netcoreapp2.0\Problem 6. Truck Tour.pdb

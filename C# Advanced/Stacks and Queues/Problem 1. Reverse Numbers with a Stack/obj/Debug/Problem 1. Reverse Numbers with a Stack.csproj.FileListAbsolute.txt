@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem 1. Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem 1. Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem_1.Reverse_Numbers_with_a_Stack.pdb

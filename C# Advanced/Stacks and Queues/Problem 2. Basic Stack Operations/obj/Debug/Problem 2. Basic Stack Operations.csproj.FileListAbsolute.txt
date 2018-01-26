@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\bin\Debug\Problem_2.Basic_Stack_Operations.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\bin\Debug\Problem_2.Basic_Stack_Operations.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\bin\Debug\Problem_2.Basic_Stack_Operations.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\obj\Debug\Problem 2. Basic Stack Operations.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\obj\Debug\Problem 2. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\obj\Debug\Problem_2.Basic_Stack_Operations.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 2. Basic Stack Operations\obj\Debug\Problem_2.Basic_Stack_Operations.pdb

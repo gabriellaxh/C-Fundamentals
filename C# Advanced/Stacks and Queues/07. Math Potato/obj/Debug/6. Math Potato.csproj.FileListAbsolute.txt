@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\bin\Debug\_6.Math_Potato.exe.config
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\bin\Debug\_6.Math_Potato.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\bin\Debug\_6.Math_Potato.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\obj\Debug\6. Math Potato.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\obj\Debug\6. Math Potato.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\obj\Debug\_6.Math_Potato.exe
+C:\Users\Gabriela\source\repos\StacksAndQueues\6. Math Potato\obj\Debug\_6.Math_Potato.pdb

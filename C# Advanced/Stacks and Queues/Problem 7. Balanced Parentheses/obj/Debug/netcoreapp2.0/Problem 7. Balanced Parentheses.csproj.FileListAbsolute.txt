@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\bin\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 7. Balanced Parentheses\obj\Debug\netcoreapp2.0\Problem 7. Balanced Parentheses.pdb

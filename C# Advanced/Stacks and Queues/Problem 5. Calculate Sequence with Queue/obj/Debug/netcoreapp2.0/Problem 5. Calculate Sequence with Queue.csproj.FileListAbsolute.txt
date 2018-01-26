@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.deps.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.pdb
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.dll
+C:\Users\Gabriela\source\repos\StacksAndQueues\Problem 5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\Problem 5. Calculate Sequence with Queue.pdb
