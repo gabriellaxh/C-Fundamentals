@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\SimpleJudge.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\SimpleJudge.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\SimpleJudge.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\SimpleJudge.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\SimpleJudge.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\SimpleJudge\obj\Debug\netcoreapp2.0\SimpleJudge.pdb

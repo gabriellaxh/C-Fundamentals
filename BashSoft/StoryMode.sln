@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BashSoft", "BashSoft\BashSoft.csproj", "{47D98B17-C3BA-432A-8706-3EC10D6779CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleJudge", "SimpleJudge\SimpleJudge.csproj", "{D6E745C2-3E28-4E48-B586-5D084C6DA8EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IO", "IO", "{5F146E55-62B0-4939-9FDE-F11383E8398D}"
+	ProjectSection(SolutionItems) = preProject
+		SimpleJudge\CommandInterpreter.cs = SimpleJudge\CommandInterpreter.cs
+		SimpleJudge\InputReader.cs = SimpleJudge\InputReader.cs
+		BashSoft\IOManager.cs = BashSoft\IOManager.cs
+		BashSoft\Output Writer.cs = BashSoft\Output Writer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Judge", "Judge", "{1EC187B9-C044-4B86-AF56-10BA228935A7}"
+	ProjectSection(SolutionItems) = preProject
+		SimpleJudge\Tester.cs = SimpleJudge\Tester.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Static data", "Static data", "{8643D171-397D-4FCB-9C82-63CB7776384E}"
+	ProjectSection(SolutionItems) = preProject
+		BashSoft\ExceptionMessages.cs = BashSoft\ExceptionMessages.cs
+		BashSoft\SessionData.cs = BashSoft\SessionData.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{F20A5033-CA88-4F26-96F2-1883C35708D7}"
+	ProjectSection(SolutionItems) = preProject
+		BashSoft\RepositoryFilters.cs = BashSoft\RepositoryFilters.cs
+		BashSoft\RepositorySorters.cs = BashSoft\RepositorySorters.cs
+		BashSoft\StudentsRepository.cs = BashSoft\StudentsRepository.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D98B17-C3BA-432A-8706-3EC10D6779CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D98B17-C3BA-432A-8706-3EC10D6779CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D98B17-C3BA-432A-8706-3EC10D6779CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D98B17-C3BA-432A-8706-3EC10D6779CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E745C2-3E28-4E48-B586-5D084C6DA8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E745C2-3E28-4E48-B586-5D084C6DA8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E745C2-3E28-4E48-B586-5D084C6DA8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E745C2-3E28-4E48-B586-5D084C6DA8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232362E2-CCD8-4778-9411-80AA6EE4388A}
+	EndGlobalSection
+EndGlobal

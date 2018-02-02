@@ -1,0 +1,22 @@
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gabriela\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
