@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\1. Sum Matrix Elements.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\1. Sum Matrix Elements.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\1. Sum Matrix Elements.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\1. Sum Matrix Elements.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\1. Sum Matrix Elements.pdb

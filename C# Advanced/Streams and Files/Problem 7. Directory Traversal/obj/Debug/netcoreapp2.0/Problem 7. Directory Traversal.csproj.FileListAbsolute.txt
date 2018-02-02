@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\bin\Debug\netcoreapp2.0\Problem 7. Directory Traversal.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\bin\Debug\netcoreapp2.0\Problem 7. Directory Traversal.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\bin\Debug\netcoreapp2.0\Problem 7. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\bin\Debug\netcoreapp2.0\Problem 7. Directory Traversal.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\bin\Debug\netcoreapp2.0\Problem 7. Directory Traversal.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 7. Directory Traversal\obj\Debug\netcoreapp2.0\Problem 7. Directory Traversal.pdb

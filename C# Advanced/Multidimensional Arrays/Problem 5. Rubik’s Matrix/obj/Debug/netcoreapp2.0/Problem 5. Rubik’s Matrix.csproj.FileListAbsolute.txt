@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4. Maximal Sum.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4. Maximal Sum.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4. Maximal Sum.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\bin\Debug\netcoreapp2.0\Problem 4. Maximal Sum.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 4. Maximal Sum\obj\Debug\netcoreapp2.0\Problem 4. Maximal Sum.pdb

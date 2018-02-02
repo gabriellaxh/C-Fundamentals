@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 8. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp2.0\Problem 8. Radioactive Mutant Vampire Bunnies.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.pdb

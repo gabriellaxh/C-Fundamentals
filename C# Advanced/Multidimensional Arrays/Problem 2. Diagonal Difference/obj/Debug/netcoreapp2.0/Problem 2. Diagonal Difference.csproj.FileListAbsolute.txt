@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\bin\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 2. Diagonal Difference\obj\Debug\netcoreapp2.0\Problem 2. Diagonal Difference.pdb

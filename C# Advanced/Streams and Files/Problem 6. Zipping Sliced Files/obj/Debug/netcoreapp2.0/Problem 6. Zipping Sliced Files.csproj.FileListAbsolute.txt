@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\Problem 6. Zipping Sliced Files.csprojResolveAssemblyReference.cache

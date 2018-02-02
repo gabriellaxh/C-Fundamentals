@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7. Lego Blocks.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7. Lego Blocks.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7. Lego Blocks.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7. Lego Blocks.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\bin\Debug\netcoreapp2.0\Problem 7. Lego Blocks.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\Problem 7. Lego Blocks\obj\Debug\netcoreapp2.0\Problem 7. Lego Blocks.pdb

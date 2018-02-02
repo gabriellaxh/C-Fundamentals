@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\bin\Debug\netcoreapp2.0\3. Group Numbers.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\bin\Debug\netcoreapp2.0\3. Group Numbers.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\bin\Debug\netcoreapp2.0\3. Group Numbers.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\bin\Debug\netcoreapp2.0\3. Group Numbers.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\bin\Debug\netcoreapp2.0\3. Group Numbers.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Multidimensional Arrays\3. Group Numbers\obj\Debug\netcoreapp2.0\3. Group Numbers.pdb

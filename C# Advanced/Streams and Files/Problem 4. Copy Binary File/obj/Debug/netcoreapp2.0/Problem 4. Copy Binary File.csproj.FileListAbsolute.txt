@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\bin\Debug\netcoreapp2.0\Problem 4. Copy Binary File.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\bin\Debug\netcoreapp2.0\Problem 4. Copy Binary File.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\bin\Debug\netcoreapp2.0\Problem 4. Copy Binary File.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\bin\Debug\netcoreapp2.0\Problem 4. Copy Binary File.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\bin\Debug\netcoreapp2.0\Problem 4. Copy Binary File.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 4. Copy Binary File\obj\Debug\netcoreapp2.0\Problem 4. Copy Binary File.pdb

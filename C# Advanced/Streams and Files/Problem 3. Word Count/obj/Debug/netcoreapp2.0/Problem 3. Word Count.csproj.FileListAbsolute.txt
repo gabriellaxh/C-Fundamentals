@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\bin\Debug\netcoreapp2.0\Problem 3. Word Count.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\bin\Debug\netcoreapp2.0\Problem 3. Word Count.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\bin\Debug\netcoreapp2.0\Problem 3. Word Count.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\bin\Debug\netcoreapp2.0\Problem 3. Word Count.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\bin\Debug\netcoreapp2.0\Problem 3. Word Count.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# Advanced\Streams and Files\Problem 3. Word Count\obj\Debug\netcoreapp2.0\Problem 3. Word Count.pdb

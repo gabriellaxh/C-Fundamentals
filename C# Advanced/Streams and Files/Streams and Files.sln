@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. Odd Lines", "Problem 1. Odd Lines\Problem 1. Odd Lines.csproj", "{6D3C36AE-43FC-4579-9586-EC9FED412682}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2. Line Numbers", "Problem 2. Line Numbers\Problem 2. Line Numbers.csproj", "{3E62C2A7-3680-4FBF-9906-6E771A3F5C5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3. Word Count", "Problem 3. Word Count\Problem 3. Word Count.csproj", "{D867CB26-D158-4C6F-837D-439EC6531E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Copy Binary File", "Problem 4. Copy Binary File\Problem 4. Copy Binary File.csproj", "{15972960-B4B1-4BAC-BA98-566E4CE3FA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Slicing File", "Problem 5. Slicing File\Problem 5. Slicing File.csproj", "{B25E69BB-C98D-4D6C-9B64-46391C75C4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Zipping Sliced Files", "Problem 6. Zipping Sliced Files\Problem 6. Zipping Sliced Files.csproj", "{915246E8-5C7D-4510-91A1-0ECFC9146CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Directory Traversal", "Problem 7. Directory Traversal\Problem 7. Directory Traversal.csproj", "{9D926DBE-F720-4F4D-B38B-D6B4A3F80441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D3C36AE-43FC-4579-9586-EC9FED412682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3C36AE-43FC-4579-9586-EC9FED412682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3C36AE-43FC-4579-9586-EC9FED412682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3C36AE-43FC-4579-9586-EC9FED412682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E62C2A7-3680-4FBF-9906-6E771A3F5C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E62C2A7-3680-4FBF-9906-6E771A3F5C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E62C2A7-3680-4FBF-9906-6E771A3F5C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E62C2A7-3680-4FBF-9906-6E771A3F5C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D867CB26-D158-4C6F-837D-439EC6531E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D867CB26-D158-4C6F-837D-439EC6531E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D867CB26-D158-4C6F-837D-439EC6531E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D867CB26-D158-4C6F-837D-439EC6531E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15972960-B4B1-4BAC-BA98-566E4CE3FA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15972960-B4B1-4BAC-BA98-566E4CE3FA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15972960-B4B1-4BAC-BA98-566E4CE3FA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15972960-B4B1-4BAC-BA98-566E4CE3FA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25E69BB-C98D-4D6C-9B64-46391C75C4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25E69BB-C98D-4D6C-9B64-46391C75C4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25E69BB-C98D-4D6C-9B64-46391C75C4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25E69BB-C98D-4D6C-9B64-46391C75C4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915246E8-5C7D-4510-91A1-0ECFC9146CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915246E8-5C7D-4510-91A1-0ECFC9146CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915246E8-5C7D-4510-91A1-0ECFC9146CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915246E8-5C7D-4510-91A1-0ECFC9146CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D926DBE-F720-4F4D-B38B-D6B4A3F80441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D926DBE-F720-4F4D-B38B-D6B4A3F80441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D926DBE-F720-4F4D-B38B-D6B4A3F80441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D926DBE-F720-4F4D-B38B-D6B4A3F80441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6BA972-8DA8-46B4-BB7A-1641859C01B3}
+	EndGlobalSection
+EndGlobal
