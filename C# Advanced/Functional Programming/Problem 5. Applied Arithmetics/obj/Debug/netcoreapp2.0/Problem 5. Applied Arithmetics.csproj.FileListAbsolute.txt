@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.0\Problem 5. Applied Arithmetics.pdb

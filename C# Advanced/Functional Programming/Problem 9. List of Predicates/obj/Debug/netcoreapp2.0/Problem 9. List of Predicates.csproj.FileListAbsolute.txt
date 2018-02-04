@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.0\Problem 9. List of Predicates.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.0\Problem 9. List of Predicates.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.0\Problem 9. List of Predicates.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.0\Problem 9. List of Predicates.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.0\Problem 9. List of Predicates.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.0\Problem 9. List of Predicates.csprojResolveAssemblyReference.cache

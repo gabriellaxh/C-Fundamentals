@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\bin\Debug\netcoreapp2.0\Problem 1. Action Point.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\bin\Debug\netcoreapp2.0\Problem 1. Action Point.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\bin\Debug\netcoreapp2.0\Problem 1. Action Point.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\bin\Debug\netcoreapp2.0\Problem 1. Action Point.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\bin\Debug\netcoreapp2.0\Problem 1. Action Point.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 1. Action Point\obj\Debug\netcoreapp2.0\Problem 1. Action Point.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7. Predicate for Names.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7. Predicate for Names.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7. Predicate for Names.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7. Predicate for Names.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.0\Problem 7. Predicate for Names.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.0\Problem 7. Predicate for Names.pdb

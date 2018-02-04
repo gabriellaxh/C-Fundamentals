@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8. Custom Comparator.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8. Custom Comparator.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8. Custom Comparator.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8. Custom Comparator.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.0\Problem 8. Custom Comparator.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.0\Problem 8. Custom Comparator.pdb

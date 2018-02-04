@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.0\Problem 10. Predicate Party!.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.0\Problem 10. Predicate Party!.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.0\Problem 10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.0\Problem 10. Predicate Party!.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.0\Problem 10. Predicate Party!.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.0\Problem 10. Predicate Party!.pdb

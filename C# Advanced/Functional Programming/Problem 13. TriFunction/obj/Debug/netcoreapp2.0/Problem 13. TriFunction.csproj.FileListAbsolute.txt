@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\bin\Debug\netcoreapp2.0\Problem 13. TriFunction.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\bin\Debug\netcoreapp2.0\Problem 13. TriFunction.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\bin\Debug\netcoreapp2.0\Problem 13. TriFunction.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\bin\Debug\netcoreapp2.0\Problem 13. TriFunction.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\bin\Debug\netcoreapp2.0\Problem 13. TriFunction.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 13. TriFunction\obj\Debug\netcoreapp2.0\Problem 13. TriFunction.pdb

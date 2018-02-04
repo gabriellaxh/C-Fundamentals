@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\bin\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.deps.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\bin\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\bin\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\bin\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\bin\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.pdb
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.dll
+C:\Users\Gabriela\source\repos\Functional Programming\Problem 4. Find Evens or Odds\obj\Debug\netcoreapp2.0\Problem 4. Find Evens or Odds.pdb
