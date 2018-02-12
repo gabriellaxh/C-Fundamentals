@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\bin\Debug\netcoreapp2.0\Problem 3 – Greedy Times.deps.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\bin\Debug\netcoreapp2.0\Problem 3 – Greedy Times.runtimeconfig.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\bin\Debug\netcoreapp2.0\Problem 3 – Greedy Times.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\bin\Debug\netcoreapp2.0\Problem 3 – Greedy Times.dll
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\bin\Debug\netcoreapp2.0\Problem 3 – Greedy Times.pdb
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.dll
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 3 – Greedy Times\obj\Debug\netcoreapp2.0\Problem 3 – Greedy Times.pdb

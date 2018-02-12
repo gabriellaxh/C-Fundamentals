@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Key Revolver.deps.json
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Key Revolver.pdb
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\Gabriela\source\repos\C\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Key Revolver.pdb

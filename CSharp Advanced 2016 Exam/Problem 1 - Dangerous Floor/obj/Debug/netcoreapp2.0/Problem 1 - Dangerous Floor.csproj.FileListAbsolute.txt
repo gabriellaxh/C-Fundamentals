@@ -1,0 +1,11 @@
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\bin\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.deps.json
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\bin\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.runtimeconfig.json
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\bin\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.runtimeconfig.dev.json
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\bin\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.dll
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\bin\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.pdb
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.AssemblyInfoInputs.cache
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.AssemblyInfo.cs
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.dll
+c:\users\gabriela\source\repos\CSharp Advanced - Exam\Problem 1 - Dangerous Floor\obj\Debug\netcoreapp2.0\Problem 1 - Dangerous Floor.pdb

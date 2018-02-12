@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\bin\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.deps.json
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\bin\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\bin\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\bin\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.dll
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\bin\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.pdb
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.dll
+C:\Users\Gabriela\source\repos\C\Problem 3 – Crypto Blockchain\obj\Debug\netcoreapp2.0\Problem 3 – Crypto Blockchain.pdb

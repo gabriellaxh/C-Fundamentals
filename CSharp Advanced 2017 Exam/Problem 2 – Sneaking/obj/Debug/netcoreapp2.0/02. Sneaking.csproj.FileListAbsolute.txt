@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C\02. Sneaking\bin\Debug\netcoreapp2.0\02. Sneaking.deps.json
+C:\Users\Gabriela\source\repos\C\02. Sneaking\bin\Debug\netcoreapp2.0\02. Sneaking.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C\02. Sneaking\bin\Debug\netcoreapp2.0\02. Sneaking.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C\02. Sneaking\bin\Debug\netcoreapp2.0\02. Sneaking.dll
+C:\Users\Gabriela\source\repos\C\02. Sneaking\bin\Debug\netcoreapp2.0\02. Sneaking.pdb
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.dll
+C:\Users\Gabriela\source\repos\C\02. Sneaking\obj\Debug\netcoreapp2.0\02. Sneaking.pdb

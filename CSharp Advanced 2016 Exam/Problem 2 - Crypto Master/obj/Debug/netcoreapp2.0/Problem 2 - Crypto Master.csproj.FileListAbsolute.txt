@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\bin\Debug\netcoreapp2.0\Problem 2 - Crypto Master.deps.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\bin\Debug\netcoreapp2.0\Problem 2 - Crypto Master.runtimeconfig.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\bin\Debug\netcoreapp2.0\Problem 2 - Crypto Master.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\bin\Debug\netcoreapp2.0\Problem 2 - Crypto Master.dll
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\bin\Debug\netcoreapp2.0\Problem 2 - Crypto Master.pdb
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.dll
+C:\Users\Gabriela\source\repos\CSharp Advanced - Exam\Problem 2 - Crypto Master\obj\Debug\netcoreapp2.0\Problem 2 - Crypto Master.pdb

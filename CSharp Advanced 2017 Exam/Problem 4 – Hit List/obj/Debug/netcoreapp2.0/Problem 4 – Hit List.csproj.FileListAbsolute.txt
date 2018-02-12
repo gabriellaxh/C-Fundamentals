@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\bin\Debug\netcoreapp2.0\Problem 4 – Hit List.deps.json
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\bin\Debug\netcoreapp2.0\Problem 4 – Hit List.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\bin\Debug\netcoreapp2.0\Problem 4 – Hit List.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\bin\Debug\netcoreapp2.0\Problem 4 – Hit List.dll
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\bin\Debug\netcoreapp2.0\Problem 4 – Hit List.pdb
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.dll
+C:\Users\Gabriela\source\repos\C\Problem 4 – Hit List\obj\Debug\netcoreapp2.0\Problem 4 – Hit List.pdb
