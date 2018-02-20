@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\bin\Debug\netcoreapp2.0\06.Company Roster.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\bin\Debug\netcoreapp2.0\06.Company Roster.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\bin\Debug\netcoreapp2.0\06.Company Roster.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\bin\Debug\netcoreapp2.0\06.Company Roster.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\bin\Debug\netcoreapp2.0\06.Company Roster.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\obj\Debug\netcoreapp2.0\06.Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\obj\Debug\netcoreapp2.0\06.Company Roster.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\obj\Debug\netcoreapp2.0\06.Company Roster.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\obj\Debug\netcoreapp2.0\06.Company Roster.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\06.Company Roster\obj\Debug\netcoreapp2.0\06.Company Roster.pdb
