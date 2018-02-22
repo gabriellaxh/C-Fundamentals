@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.deps.json
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.dll
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.pdb
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.dll
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.pdb
+C:\Users\Gabriela\source\repos\Encapsulation\03.AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csprojResolveAssemblyReference.cache

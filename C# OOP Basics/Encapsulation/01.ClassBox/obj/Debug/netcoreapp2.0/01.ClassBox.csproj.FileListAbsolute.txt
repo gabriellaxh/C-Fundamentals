@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\Gabriela\source\repos\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb
