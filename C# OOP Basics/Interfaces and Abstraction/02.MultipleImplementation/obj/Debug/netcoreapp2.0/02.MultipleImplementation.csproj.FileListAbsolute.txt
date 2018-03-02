@@ -1,0 +1,22 @@
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.deps.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.pdb

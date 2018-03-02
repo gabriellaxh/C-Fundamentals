@@ -1,0 +1,22 @@
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.deps.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.pdb
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Gabriela\source\repos\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\bin\Debug\netcoreapp2.0\08.MilitaryElite.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\08.MilitaryElite\obj\Debug\netcoreapp2.0\08.MilitaryElite.pdb

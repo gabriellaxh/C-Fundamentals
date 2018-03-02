@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Basics\Interfaces and Abstraction\10. ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
