@@ -1,0 +1,11 @@
+c:\users\gabriela\source\repos\Draft2\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.deps.json
+c:\users\gabriela\source\repos\Draft2\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.json
+c:\users\gabriela\source\repos\Draft2\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.dev.json
+c:\users\gabriela\source\repos\Draft2\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.dll
+c:\users\gabriela\source\repos\Draft2\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.pdb
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfoInputs.cache
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfo.cs
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.dll
+c:\users\gabriela\source\repos\Draft2\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.pdb
