@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\bin\Debug\netcoreapp2.0\01.CreateAttributeLab.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\bin\Debug\netcoreapp2.0\01.CreateAttributeLab.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\bin\Debug\netcoreapp2.0\01.CreateAttributeLab.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\bin\Debug\netcoreapp2.0\01.CreateAttributeLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\bin\Debug\netcoreapp2.0\01.CreateAttributeLab.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.CreateAttributeLab\obj\Debug\netcoreapp2.0\01.CreateAttributeLab.pdb

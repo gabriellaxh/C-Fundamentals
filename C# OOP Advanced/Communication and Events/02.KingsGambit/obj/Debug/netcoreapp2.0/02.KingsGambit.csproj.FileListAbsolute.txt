@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.pdb

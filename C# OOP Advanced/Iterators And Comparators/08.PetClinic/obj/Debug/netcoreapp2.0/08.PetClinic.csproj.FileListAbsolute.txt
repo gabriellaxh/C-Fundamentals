@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.pdb

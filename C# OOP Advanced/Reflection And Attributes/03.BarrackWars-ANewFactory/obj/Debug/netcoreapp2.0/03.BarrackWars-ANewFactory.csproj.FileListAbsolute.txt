@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.pdb

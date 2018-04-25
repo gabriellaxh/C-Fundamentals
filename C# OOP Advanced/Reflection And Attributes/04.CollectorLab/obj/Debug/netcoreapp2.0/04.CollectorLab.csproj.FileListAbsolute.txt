@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\bin\Debug\netcoreapp2.0\04.CollectorLab.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\bin\Debug\netcoreapp2.0\04.CollectorLab.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\bin\Debug\netcoreapp2.0\04.CollectorLab.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\bin\Debug\netcoreapp2.0\04.CollectorLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\bin\Debug\netcoreapp2.0\04.CollectorLab.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\04.CollectorLab\obj\Debug\netcoreapp2.0\04.CollectorLab.pdb

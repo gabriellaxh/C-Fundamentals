@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\bin\Debug\netcoreapp2.0\06.TrafficLight.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\bin\Debug\netcoreapp2.0\06.TrafficLight.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\bin\Debug\netcoreapp2.0\06.TrafficLight.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\bin\Debug\netcoreapp2.0\06.TrafficLight.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\bin\Debug\netcoreapp2.0\06.TrafficLight.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\06.TrafficLight\obj\Debug\netcoreapp2.0\06.TrafficLight.pdb

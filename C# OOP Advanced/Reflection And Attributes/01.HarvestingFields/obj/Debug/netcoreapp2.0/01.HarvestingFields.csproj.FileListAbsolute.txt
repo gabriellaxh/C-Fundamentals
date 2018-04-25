@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\bin\Debug\netcoreapp2.0\01.HarvestingFields.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\bin\Debug\netcoreapp2.0\01.HarvestingFields.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\bin\Debug\netcoreapp2.0\01.HarvestingFields.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\bin\Debug\netcoreapp2.0\01.HarvestingFields.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\bin\Debug\netcoreapp2.0\01.HarvestingFields.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.HarvestingFields\obj\Debug\netcoreapp2.0\01.HarvestingFields.pdb

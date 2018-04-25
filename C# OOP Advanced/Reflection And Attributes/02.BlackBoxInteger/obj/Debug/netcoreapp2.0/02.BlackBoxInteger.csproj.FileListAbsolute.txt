@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.0\02.BlackBoxInteger.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.0\02.BlackBoxInteger.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.0\02.BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.0\02.BlackBoxInteger.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.0\02.BlackBoxInteger.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.0\02.BlackBoxInteger.pdb

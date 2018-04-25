@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\03.MissionPrivateImpossibleLab\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossibleLab.pdb

@@ -1,0 +1,22 @@
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\bin\Debug\netcoreapp2.0\01.ListyIterator.deps.json
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.json
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.dev.json
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\bin\Debug\netcoreapp2.0\01.ListyIterator.dll
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\bin\Debug\netcoreapp2.0\01.ListyIterator.pdb
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfoInputs.cache
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfo.cs
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.dll
+c:\users\gabriela\source\repos\Iterators And Comparators\ConsoleApp1\obj\Debug\netcoreapp2.0\01.ListyIterator.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.pdb

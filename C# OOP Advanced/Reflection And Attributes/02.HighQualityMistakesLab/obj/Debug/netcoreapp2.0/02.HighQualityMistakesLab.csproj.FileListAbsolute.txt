@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\bin\Debug\netcoreapp2.0\02.HighQualityMistakesLab.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\bin\Debug\netcoreapp2.0\02.HighQualityMistakesLab.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\bin\Debug\netcoreapp2.0\02.HighQualityMistakesLab.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\bin\Debug\netcoreapp2.0\02.HighQualityMistakesLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\bin\Debug\netcoreapp2.0\02.HighQualityMistakesLab.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\02.HighQualityMistakesLab\obj\Debug\netcoreapp2.0\02.HighQualityMistakesLab.pdb

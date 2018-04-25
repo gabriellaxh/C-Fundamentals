@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.pdb

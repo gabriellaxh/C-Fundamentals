@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Iterators And Comparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.pdb

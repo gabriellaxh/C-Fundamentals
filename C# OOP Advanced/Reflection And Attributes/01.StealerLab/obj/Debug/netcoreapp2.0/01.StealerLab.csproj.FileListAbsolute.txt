@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\bin\Debug\netcoreapp2.0\01.StealerLab.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\bin\Debug\netcoreapp2.0\01.StealerLab.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\bin\Debug\netcoreapp2.0\01.StealerLab.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\bin\Debug\netcoreapp2.0\01.StealerLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\bin\Debug\netcoreapp2.0\01.StealerLab.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Reflection And Attributes\01.StealerLab\obj\Debug\netcoreapp2.0\01.StealerLab.pdb

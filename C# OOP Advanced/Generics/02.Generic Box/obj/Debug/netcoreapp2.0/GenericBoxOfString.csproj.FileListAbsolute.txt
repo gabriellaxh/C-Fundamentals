@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\bin\Debug\netcoreapp2.0\GenericBoxOfString.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\bin\Debug\netcoreapp2.0\GenericBoxOfString.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\bin\Debug\netcoreapp2.0\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\bin\Debug\netcoreapp2.0\GenericBoxOfString.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\bin\Debug\netcoreapp2.0\GenericBoxOfString.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Generics\Generic Box\obj\Debug\netcoreapp2.0\GenericBoxOfString.pdb

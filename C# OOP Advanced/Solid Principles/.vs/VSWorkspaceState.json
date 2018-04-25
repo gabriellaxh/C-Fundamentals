@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01.Logger",
+    "\\01.Logger\\Enums",
+    "\\01.Logger\\Models",
+    "\\01.Logger\\Models\\Factories"
+  ],
+  "SelectedNode": "\\01.Logger\\Engine.cs",
+  "PreviewInSolutionExplorer": false
+}

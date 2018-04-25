@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.deps.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.runtimeconfig.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.pdb
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.dll
+C:\Users\Gabriela\source\repos\C# Fundamentals\C# OOP Advanced\Communication and Events\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.pdb
