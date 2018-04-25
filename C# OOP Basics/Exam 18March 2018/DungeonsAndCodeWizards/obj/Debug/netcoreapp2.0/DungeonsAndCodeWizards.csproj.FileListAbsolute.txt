@@ -1,0 +1,11 @@
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+C:\Users\Gabriela\Downloads\ShibaniqIzpit\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojResolveAssemblyReference.cache
